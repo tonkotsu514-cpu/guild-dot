@@ -1,0 +1,12 @@
+[
+  {
+    "name": "ユノ",
+    "star": 3,
+    "base": "human"
+  },
+  {
+    "name": "セリス",
+    "star": 2,
+    "base": "mage"
+  }
+]
